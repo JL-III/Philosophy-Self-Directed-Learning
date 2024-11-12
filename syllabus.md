@@ -1,6 +1,7 @@
 # Self-Directed Philosophy Syllabus
 
-## Module 1: Ancient Philosophy
+## Module 1: [Ancient Philosophy](./module_one_ancient_philosophy/)
+
 - **Goal**: Understand the origins of Western philosophy and the foundational ideas from Ancient Greece.
 - **Key Thinkers**: Socrates, Plato, Aristotle
 
@@ -15,7 +16,8 @@
 
 ---
 
-## Module 2: Ethics and Moral Philosophy
+## Module 2: [Ethics and Moral Philosophy](./module_two_eithics_and_moral_philosophy/)
+
 - **Goal**: Explore key theories of morality, ethics, and human behavior.
 - **Key Thinkers**: Immanuel Kant, John Stuart Mill, Aristotle, contemporary ethicists
 
